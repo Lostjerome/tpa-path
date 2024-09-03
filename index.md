@@ -71,4 +71,7 @@ features:
   - title: Azure
     details: รวบรวมเนื้อหาที่เกี่ยวกับการใช้งาน Microsoft Cloud - Azure ในการพัฒนาระบบ
     link: /paths/azure
+  - title: Go Programming Language
+    details: เนื้อหาที่เกี่ยวกับภาษา Go และการพัฒนาระบบด้วยภาษา Go จาก Hello World! สู่ Production
+    link: /paths/golang
 ---
